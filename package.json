@@ -1,0 +1,20 @@
+{
+  "name": "yts_noapi",
+  "version": "1.0.0",
+  "description": "Search youtube without API",
+  "main": "index.js",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "yts",
+    "youtube",
+    "search"
+  ],
+  "author": "Abdul Muttaqin",
+  "license": "ISC"
+}
