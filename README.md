@@ -1,2 +1,2 @@
-# yts
-Youtube search query without API
+# Youtube search query without API
+
