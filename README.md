@@ -2,7 +2,7 @@
 
 ## install
 
-`npm install yts_noapi`
+`npm install https://github.com/fdciabdul/yts.git`
 
 Test :
 
